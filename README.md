@@ -1,4 +1,4 @@
-# Alicev— AI Personal Assistant for Institutional Finance
+# Alice — AI Personal Assistant for Institutional Finance
 
 > **Production n8n agentic workflow powering a Telegram-based AI chief-of-staff — built for institutional allocators managing complex deal flow, diligence pipelines, and investor relationships.**
 
